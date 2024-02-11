@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707646564 source:d:\ibrahim beshr\term 3\programming 1\final project\library_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
